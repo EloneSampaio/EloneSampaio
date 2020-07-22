@@ -12,9 +12,8 @@
 <ul>
 <li style="clear: both;"><img src="https://image.flaticon.com/icons/svg/1688/1688502.svg" alt="web" width="25" height="25" />&nbsp; Desenvolvedor Web</li>
 <li style="clear: both;"><img style="float: left;" src="https://image.flaticon.com/icons/svg/1688/1688502.svg" alt="web" width="25" height="25" />&nbsp; Desenvolvedor Mobile</li>
-<li style="clear: both;">&nbsp; Analista De Dado<img style="float: left;" src="https://image.flaticon.com/icons/svg/1688/1688502.svg" alt="replace text" width="25" height="24" />s</li>
 <li style="clear: both;"><img style="float: left;" src="https://image.flaticon.com/icons/svg/2937/2937767.svg" alt="mecanica" width="25" height="25" />&nbsp; Graduando em Engenharia Mec&acirc;nica</li>
-<li style="clear: both;"><img style="float: left;" src="https://image.flaticon.com/icons/svg/1688/1688502.svg" width="24" height="24" />&nbsp; &nbsp;Estudo em Andamento: Machine Learning</li>
+<li style="clear: both;"><img style="float: left;" src="https://image.flaticon.com/icons/svg/1688/1688502.svg" width="24" height="24" />&nbsp; &nbsp;Estudo em Andamento: Machine Learning &amp; Analise de Dados</li>
 </ul>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p><strong>&nbsp;</strong></p>
