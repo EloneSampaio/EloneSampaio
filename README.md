@@ -9,12 +9,12 @@
 <h2><span style="color: #000000;">Karibu kwenye wasifu wangu</span></h2>
 <p>Meu nome &eacute; Elone Sampaio, Analista Desenvolver de Sistemas e Estudante de Engenharia M&ecirc;canica.</p>
 <p>&nbsp;</p>
-<ol style="list-style: none; font-size: 14px; line-height: 32px; font-weight: bold;">
-<li style="clear: both;"><img src="https://image.flaticon.com/icons/svg/1688/1688502.svg" alt="web" width="35" height="35" />&nbsp; Desenvolvedor Web</li>
-<li style="clear: both;"><img style="float: left;" src="https://image.flaticon.com/icons/svg/1688/1688502.svg" alt="web" width="35" height="35" />&nbsp; Desenvolvedor Mobile</li>
-<li style="clear: both;">&nbsp; Analista De Dado<img style="float: left;" src="https://image.flaticon.com/icons/svg/1688/1688502.svg" alt="replace text" width="35" height="33" />s</li>
-<li style="clear: both;"><img style="float: left;" src="https://image.flaticon.com/icons/svg/2937/2937767.svg" alt="mecanica" width="36" height="36" />&nbsp; Graduando em Engenharia Mec&acirc;nica</li>
-<li style="clear: both;"><img style="float: left;" src="https://image.flaticon.com/icons/svg/1688/1688502.svg" width="35" height="35" />&nbsp; &nbsp;Estudo em Andamento: Machine Learning</li>
-</ol>
+<ul>
+<li style="clear: both;"><img src="https://image.flaticon.com/icons/svg/1688/1688502.svg" alt="web" width="25" height="25" />&nbsp; Desenvolvedor Web</li>
+<li style="clear: both;"><img style="float: left;" src="https://image.flaticon.com/icons/svg/1688/1688502.svg" alt="web" width="25" height="25" />&nbsp; Desenvolvedor Mobile</li>
+<li style="clear: both;">&nbsp; Analista De Dado<img style="float: left;" src="https://image.flaticon.com/icons/svg/1688/1688502.svg" alt="replace text" width="25" height="24" />s</li>
+<li style="clear: both;"><img style="float: left;" src="https://image.flaticon.com/icons/svg/2937/2937767.svg" alt="mecanica" width="25" height="25" />&nbsp; Graduando em Engenharia Mec&acirc;nica</li>
+<li style="clear: both;"><img style="float: left;" src="https://image.flaticon.com/icons/svg/1688/1688502.svg" width="24" height="24" />&nbsp; &nbsp;Estudo em Andamento: Machine Learning</li>
+</ul>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p><strong>&nbsp;</strong></p>
