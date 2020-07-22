@@ -12,9 +12,9 @@
 <ol style="list-style: none; font-size: 14px; line-height: 32px; font-weight: bold;">
 <li style="clear: both;"><img src="https://image.flaticon.com/icons/svg/1688/1688502.svg" alt="web" width="35" height="35" />&nbsp; Desenvolvedor Web</li>
 <li style="clear: both;"><img style="float: left;" src="https://image.flaticon.com/icons/svg/1688/1688502.svg" alt="web" width="35" height="35" />&nbsp; Desenvolvedor Mobile</li>
-<li style="clear: both;">&nbsp; Analista De Dado<img style="float: left;" src="https://html-online.com/img/04-replace.png" alt="replace text" width="35" height="33" />s</li>
+<li style="clear: both;">&nbsp; Analista De Dado<img style="float: left;" src="https://image.flaticon.com/icons/svg/1688/1688502.svg" alt="replace text" width="35" height="33" />s</li>
 <li style="clear: both;"><img style="float: left;" src="https://image.flaticon.com/icons/svg/2937/2937767.svg" alt="mecanica" width="36" height="36" />&nbsp; Graduando em Engenharia Mec&acirc;nica</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/6-table-div-html.png" alt="html table div" width="35" height="33" />&nbsp; &nbsp;Estudo em Andamento: Machine Learning</li>
+<li style="clear: both;"><img style="float: left;" src="https://image.flaticon.com/icons/svg/1688/1688502.svg" width="35" height="35" />&nbsp; &nbsp;Estudo em Andamento: Machine Learning</li>
 </ol>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p><strong>&nbsp;</strong></p>
