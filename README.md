@@ -13,7 +13,7 @@
 <li style="clear: both;"><img src="https://image.flaticon.com/icons/svg/1688/1688502.svg" alt="web" width="25" height="25" />&nbsp; Desenvolvedor Web</li>
 <li style="clear: both;"><img style="float: left;" src="https://image.flaticon.com/icons/svg/1688/1688502.svg" alt="web" width="25" height="25" />&nbsp; Desenvolvedor Mobile</li>
 <li style="clear: both;"><img style="float: left;" src="https://image.flaticon.com/icons/svg/2937/2937767.svg" alt="mecanica" width="25" height="25" />&nbsp; Graduando em Engenharia Mec&acirc;nica</li>
-<li style="clear: both;"><img style="float: left;" src="https://image.flaticon.com/icons/svg/1688/1688502.svg" width="24" height="24" />&nbsp; &nbsp;Estudo em Andamento: Machine Learning &amp; Analise de Dados</li>
+<li style="clear: both;"><img style="float: left;" src="https://image.flaticon.com/icons/svg/1688/1688502.svg" width="24" height="24" />&nbsp; &nbsp;Estudo em Andamento: Machine Learning &amp; Analise de Dados &amp; Geoprocessamento</li>
 </ul>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p><strong>&nbsp;</strong></p>
@@ -21,4 +21,3 @@
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="light" data-vanity="elonesampaio"><a class="LI-simple-link" href='https://br.linkedin.com/in/elonesampaio?trk=profile-badge'>Elone Izata Gonçalves Sampaio</a></div>
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
