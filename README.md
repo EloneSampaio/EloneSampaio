@@ -17,3 +17,8 @@
 </ul>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p><strong>&nbsp;</strong></p>
+
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="light" data-vanity="elonesampaio"><a class="LI-simple-link" href='https://br.linkedin.com/in/elonesampaio?trk=profile-badge'>Elone Izata Gonçalves Sampaio</a></div>
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
