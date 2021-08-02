@@ -7,7 +7,7 @@
 <h2><span style="color: #000000;">Welcome to my profile</span></h2>
 <h2><span style="color: #000000;">Bienvenido a mi perfil</span></h2>
 <h2><span style="color: #000000;">Karibu kwenye wasifu wangu</span></h2>
-<p>Meu nome &eacute; Elone Sampaio, Analista Desenvolver de Sistemas e Estudante de Engenharia M&ecirc;canica.</p>
+<p>Meu nome &eacute; Elone Sampaio, Gestor de projetos e Desenvolver de Sistemas e Estudante de Engenharia M&ecirc;canica.</p>
 <p>&nbsp;</p>
 <ul>
 <li style="clear: both;"><img src="https://image.flaticon.com/icons/svg/1688/1688502.svg" alt="web" width="25" height="25" />&nbsp; Desenvolvedor Web</li>
