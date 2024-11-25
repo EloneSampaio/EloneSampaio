@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/elone_sampaio" target="blank"><img src="https://img.shields.io/twitter/follow/elone_sampaio?logo=twitter&style=for-the-badge" alt="elone_sampaio" /></a> </p>
 
-- 🌱 I’m currently working with **Mechanical Engineer and DataScience**
+- 🌱 I’m currently working with **Mechanical Engineer + Data + ML **
 
 - 📫 How to reach me **gomcalsam@gmail.com**
 
