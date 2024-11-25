@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elone Sampaio</h1>
-<h3 align="center">Amante de engenharia & tecnologia</h3>
+<h3 align="center">Passionné par l'ingénierie, la technologie et la science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elonesampaio&label=Profile%20views&color=0e75b6&style=flat" alt="elonesampaio" /> </p>
 
